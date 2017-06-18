@@ -1,0 +1,15 @@
+%FSLAX23Y23*%
+%MOMM*%
+%SFA1B1*%
+
+%IPPOS*%
+%ADD9505C,2.999994*%
+%LNanalogpsu-boardedgerout-1*%
+%LPD*%
+G54D9505*
+X-1499Y-1499D02*
+Y96499D01*
+X96499*
+Y-1499*
+X-1499*
+M02*
